@@ -2,7 +2,7 @@
 
 ### This is a python application that changes its background on mouse click.
 
-![Alt Text](/presentation.gif)
+<img src="/presentation.gif" width="400" height="400"/>
 
 
 ### Requirements
